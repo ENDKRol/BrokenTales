@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bienvenido.md",
+                "file": "Tian.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 465.5
   },
   "right": {
     "id": "3c7e01992d559825",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bienvenido.md",
+                "file": "Tian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bienvenido.md",
+                "file": "Tian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bienvenido.md"
+                "file": "Tian.md"
               }
             }
           }
@@ -148,6 +148,29 @@
   },
   "active": "7c56055d8f35c742",
   "lastOpenFiles": [
+    "Escenas/Escena 1 Entrada a la ciudad de Gongmen.md",
+    "Tian.md",
+    "Personajes/Secundarios/Gongmen/Qiu.md",
+    "Personajes/Secundarios/Gongmen/Ming.md",
+    "Personajes/Secundarios/Gongmen/Liang.md",
+    "Personajes/Secundarios/Gongmen/Guardias de la ciudad de Gongmen.md",
+    "Personajes/Secundarios/Gongmen/Bai.md",
+    "Personajes/Secundarios/Gongmen",
+    "Personajes/Principales/Zhen Ren (Maestro Oogway).md",
+    "Personajes/Principales/Xiong (Kai).md",
+    "Personajes/Principales/Laoshi (Maestro Shifu).md",
+    "Personajes/Principales/Hu Xiao (Tai Lung).md",
+    "Personajes/Secundarios",
+    "Personajes/Principales",
+    "Personajes",
+    "Lugares/Valle de la guerra.md",
+    "Lugares/Gongmen.md",
+    "Lugares",
+    "Escenas/Prologo Guerra de blanco y negro.md",
+    "Escenas",
+    "Plantillas/Personajes.md",
+    "Plantillas/Lugares.md",
+    "Plantillas",
     "Bienvenido.md"
   ]
 }
