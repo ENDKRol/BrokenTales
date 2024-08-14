@@ -1,0 +1,51 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#Principal  ",
+      "color": {
+        "a": 1,
+        "rgb": 2031360
+      }
+    },
+    {
+      "query": "tag:#Lugar  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "tag:#Escena ",
+      "color": {
+        "a": 1,
+        "rgb": 4607
+      }
+    },
+    {
+      "query": "tag:#Secundario  ",
+      "color": {
+        "a": 1,
+        "rgb": 65531
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 1.0000000000000044,
+  "close": false
+}

@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "b6ca9e34b89b4320",
+    "type": "split",
+    "children": [
+      {
+        "id": "a4a7b5f80395658c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4aaa97d5262f587",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personajes/Principales/Rocket Bolt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "83d5407fe55ee5a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Escenas/02A Empresa Harvest.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7a9cc9e666e20803",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lugares/Alcornocales.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b3289e43d815253a",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ed89a8e004c1965",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a75c4f1ba0b8c84",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f6f761979bed67b9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "74489776a4a852ac",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "663c85b44e920db6",
+    "type": "split",
+    "children": [
+      {
+        "id": "10afde4a97aa76ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b50ae2fac6a5902e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Lugares/Alcornocales.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dbfb0923317d72ef",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Lugares/Alcornocales.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b98408c693a50623",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9bb9eeeae74996fe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Lugares/Alcornocales.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "7a9cc9e666e20803",
+  "lastOpenFiles": [
+    "Personajes/Secundarios/Phil.md",
+    "Lugares/Alcornocales.md",
+    "Personajes/Principales/Yukkuri Kame.md",
+    "Escenas/02B Empresa Always Green.md",
+    "Escenas/02A Empresa Harvest.md",
+    "Personajes/Secundarios/Mark.md",
+    "Personajes/Secundarios/Lucy.md",
+    "Escenas/01 Prologo Carrera Industrial.md",
+    "Personajes/Principales/Rocket Bolt.md",
+    "Lugares/Always Green.md",
+    "Lugares/Harvest.md",
+    "la maldición del perezoso.md",
+    "Bienvenido.md",
+    "Plantillas/Personajes.md",
+    "Plantillas/Lugares.md",
+    "Plantillas",
+    "Personajes/Secundarios/Gongmen/Qiu.md",
+    "Personajes/Secundarios/Gongmen/Ming.md",
+    "Personajes/Secundarios/Gongmen/Bai.md",
+    "Personajes/Secundarios/Gongmen/Liang.md",
+    "Personajes/Secundarios/Gongmen/Guardias de la ciudad de Gongmen.md",
+    "Personajes/Secundarios/Gongmen",
+    "Personajes/Principales/Zhen Ren (Maestro Oogway).md",
+    "Personajes/Principales/Xiong (Kai).md",
+    "Personajes/Principales/Laoshi (Maestro Shifu).md",
+    "Personajes/Principales/Hu Xiao (Tai Lung).md",
+    "Personajes/Secundarios",
+    "Personajes/Principales",
+    "Personajes",
+    "Lugares/Valle de la guerra.md",
+    "Lugares/Gongmen.md",
+    "Lugares",
+    "Escenas"
+  ]
+}
