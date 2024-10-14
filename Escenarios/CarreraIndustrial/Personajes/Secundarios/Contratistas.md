@@ -3,12 +3,12 @@ tags:
   - Secundario
   - NPC
 aliases:
-  - Panadera
+  - Contratistas
 ---
-# NO 3 - 1 Heridas
+# NO 3,5,7 - N Heridas
 ___
 ## Descripción para jugadores
-descripción
+[[Alcornocales]]
 
 - **Descriptor**: *descriptor*
 - **Don**:
@@ -16,4 +16,4 @@ descripción
 - **Objetivo**: *objetivo*
 ___
 ### Información para DM
->Trabajador de la [[Panadería]]
+>información

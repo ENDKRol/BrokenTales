@@ -19,3 +19,5 @@ Hombre fornido y gordo, con traje formal muy viejo que por su alta edad se mueve
 ___
 ### Información para DM
 >información
+[[Contratistas]]
+[[Rocket Bolt]]

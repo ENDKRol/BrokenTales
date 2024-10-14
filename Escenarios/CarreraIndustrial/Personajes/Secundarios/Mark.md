@@ -16,4 +16,4 @@ descripción
 - **Objetivo**: *objetivo*
 ___
 ### Información para DM
->información
+>Trabajador de la [[Posada]]

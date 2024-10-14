@@ -5,7 +5,7 @@ tags:
 aliases:
   - Dueño de la morgue
 ---
-# NO 3,5,7 - N Heridas
+# NO 3 - 1 Heridas
 ___
 ## Descripción para jugadores
 descripción
@@ -16,4 +16,4 @@ descripción
 - **Objetivo**: *objetivo*
 ___
 ### Información para DM
->información
+>Trabajador de la [[Morgue]]

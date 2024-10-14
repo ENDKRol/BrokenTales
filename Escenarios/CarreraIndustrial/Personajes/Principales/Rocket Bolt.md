@@ -6,10 +6,10 @@ aliases:
   - Conejo
   - Liebre
 ---
-# NO 5 - 4 Heridas
+# NO 5 - 3 Heridas
 ___
 ## Descripción para jugadores
-Hombre flaco he hiperactivo, usa un delantal camisa formal, pantalon formal y zapatos formales, además su pelo es blanco y usa una mascara de tubos que conectan con unos lentes completamente negros, los tubos se extienden en 2 grandes picos por encima de su cabeza, lo que le ha dejado el apodo de liebre o conejo.
+Hombre flaco he hiperactivo, usa un delantal camisa formal, pantalon formal y zapatos formales, además su pelo es blanco y usa una mascara de tubos que conectan con unos lentes completamente negros, los tubos se extienden en 2 grandes picos por encima de su cabeza, lo que le ha dejado el apodo de liebre o conejo por su gran parecido a una mascara de conejo.
 
 - **Descriptor**: *Soy un inventor que se ha dedicado a hacer maquinas para optimizar trabajos, no soy muy cercano a las personas ya que me considero a mi mismo un monstruo pero trabajo arduamente para demostrar lo contrario.*
 
@@ -21,3 +21,6 @@ Hombre flaco he hiperactivo, usa un delantal camisa formal, pantalon formal y za
 ___
 ### Información para DM
 >información
+[[Phil|Dueño de la morgue]]
+[[Yukkuri Kame]]
+[[Albert|Carpintero]]

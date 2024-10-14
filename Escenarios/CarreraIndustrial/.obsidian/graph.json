@@ -32,20 +32,20 @@
       "query": "tag:#Secundario  ",
       "color": {
         "a": 1,
-        "rgb": 65531
+        "rgb": 15597823
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.0000000000000044,
+  "scale": 0.5087618855792624,
   "close": false
 }

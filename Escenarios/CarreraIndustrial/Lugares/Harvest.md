@@ -4,7 +4,7 @@ tags:
 aliases:
   - Industria Harvest
 ---
-**Descriptor**: *descripción*
+**Descriptor**: *Grandes industrias de madera que *
 
 Pobladores: 
 

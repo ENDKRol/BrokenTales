@@ -1,10 +1,8 @@
 ---
 tags:
-  - Escena
+  - Lugar
 ---
 **Descriptor**: *descripción*
-
-audiencia con [[Rocket Bolt]]
 
 Pobladores: 
 

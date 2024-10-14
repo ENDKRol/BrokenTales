@@ -4,5 +4,7 @@ tags:
 ---
 **Descriptor**: *descripción*
 
+audiencia con [[Yukkuri Kame]]
+
 Pobladores: 
 
